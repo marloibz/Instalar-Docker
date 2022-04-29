@@ -2,43 +2,22 @@
 Este es un repositoreio donde voy a explicar como instalar Docker
 
 1. Debemos ir a https://docs.docker.com/desktop/windows/install/
-2. 
-3. ![0](https://user-images.githubusercontent.com/91874499/165945512-722ff97a-95b7-43d3-b852-a3d75e93fa9d.PNG)
-4. 
-5. https://www.youtube.com/watch?v=ozp84CCh0Uc&list=PL-8CyWabyNa85xowmOeBMCspbrn6qNWgl&t=72s
-6. fgd
-7. gfd
-8. grdf
-9. gfd
-10. gfd
-11. gfdg
-12. dgdgd
-13. g
-14. dg
-15. dg
-16. d
-17. gd
-18. gd
-19. g
-20. dg
-21. dg
-22. d
-23. gd
-24. gd
-25. gd
-26. gd
-27. gd
-28. gd
-29. gd
-30. gd
-31. gd
-32. g
 
-gfd
-gfd
-gfd
-gd
-gd
-g
-dgfd
-gd
+2. ![0](https://user-images.githubusercontent.com/91874499/165945512-722ff97a-95b7-43d3-b852-a3d75e93fa9d.PNG)
+ 
+3.Ahora debemos presionar el boton de "Docker Desktop for Windows"
+4. Se nos descargará el archivo , y una vez en nuestra computadora le damos a ejetuar para que empieze la instalación
+
+5. Esperando lo primero que nos aparecerá sera la siguiente ventana en la cual debemos seleccionar solo la primera casilla
+ 
+6. grdf![1](https://user-images.githubusercontent.com/91874499/165945996-a419125c-966e-49fe-9ad5-6c9cd16c7663.PNG)
+
+7. Esperando la instalación veremos cosas como estas en las cuales no debemos tocar nada
+
+8. ![2](https://user-images.githubusercontent.com/91874499/165946204-23246b38-d855-47f8-bd27-570ebf243cdf.PNG)
+
+9. Y para finalizar le damos al boton de "Close and Restard" 
+
+10. ![3](https://user-images.githubusercontent.com/91874499/165946398-5dbb52ec-a131-4a36-b6b7-ecd9f444f22d.PNG)
+
+11. Ya tendrémos Docker instalado en nuestra computadora
